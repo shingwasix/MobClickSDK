@@ -29,5 +29,5 @@ MobClickSDK
 
 3)在需要使用统计代码的文件上引用友盟SDK的头文件,引用代码如下
 
-<p>#import &gt;MobClick/MobClick.h&lt;</p>
+<p>#import &lt;MobClick/MobClick.h&gt;</p>
 
